@@ -15,3 +15,5 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ctrl + c to end sessions.
+
+![App Init](./img/screenshot1.png)
