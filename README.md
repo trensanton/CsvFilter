@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started CSV Filter Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project enables CSV upload, CSV filter, and download filtered data functions.
 
 ## Available Scripts
 
