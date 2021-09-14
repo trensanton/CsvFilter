@@ -16,6 +16,8 @@ You will also see any lint errors in the console.
 
 ctrl + c to end sessions.
 
+## Brief Demo with Images
+
 ### Init App
 ![](./img/screenshot1.png)
 
