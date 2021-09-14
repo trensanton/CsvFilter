@@ -16,4 +16,15 @@ You will also see any lint errors in the console.
 
 ctrl + c to end sessions.
 
-![App Init](./img/screenshot1.png)
+### Init App
+![](./img/screenshot1.png)
+
+### Upload CSV file
+![](./img/screenshot2.png)
+
+### Filter Function
+![](./img/screenshot4.png)
+
+### Export/Download Filtered CSV
+![](./img/screenshot5.png)
+![](./img/screenshot6.png)
